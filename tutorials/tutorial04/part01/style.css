@@ -1,0 +1,41 @@
+body{
+    background-color: #f0f4ef;
+}
+
+header{
+    background-color: #b4cded;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 25px;
+}
+
+nav{
+    text-align: center;
+    background-color: black;
+    font-size: 15pt;
+    padding: 15px;
+}
+
+a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 60px;
+
+}
+
+section{
+   padding: 125px;
+   text-align: center;
+   display:flex;
+   justify-content: space-between;
+}
+
+footer{
+    text-align:center;
+    padding: 60px;
+    background-color: #344966;
+    color:white;
+    align-items: baseline;
+    margin-top: 90pt;
+}
