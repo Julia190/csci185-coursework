@@ -29,7 +29,7 @@ header {
     background-size: cover;
     background-position-x: center;
     background-position-y: center; 
-    filter: invert(20)
+    filter: invert(20);
 }
 
 section {
