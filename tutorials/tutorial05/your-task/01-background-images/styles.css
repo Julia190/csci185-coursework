@@ -24,7 +24,7 @@ header {
     justify-content: center; /* horizontal-align text in the center */
     
     
-    background-image: url('pexels-steward-masweneng-9744778.jpg');
+    background-image: url('../01-background-images/pexels-steward-masweneng-9744778.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
@@ -40,7 +40,7 @@ section {
     background-color: black;
     padding-left: 0px;
 
-    background-image: url('pexels-steward-masweneng-9744778.jpg');
+    background-image: url('../01-background-images/pexels-steward-masweneng-9744778.jpg');
     background-repeat: no-repeat;
     background-position: center right;
     background-size: contain;
