@@ -5,7 +5,7 @@ const canvasHeight = window.innerHeight;
 const c1 = {
     x: 100,
     y: 100,
-    width: 200,
+    width: 100,
     speed: 5,
     color: 'green'
 };

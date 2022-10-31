@@ -1,6 +1,11 @@
 const canvasWidth = window.innerWidth;
 const canvasHeight = window.innerHeight; 
-    
+const f1 = {
+    x: 100,
+    y: 100,
+    width: 200,
+    speed: 5,
+};
 function setup() {
     createCanvas(canvasWidth, canvasHeight);
     drawGrid(canvasWidth, canvasHeight);
@@ -94,6 +99,8 @@ function displayMessage() {
      textSize(16);
      text("Use the arrow keys to move the Bunny, spacebar to shoot.", canvasWidth/2, canvasHeight/2);
 }
+
+
 
 // Add event listener on keydown
 document.addEventListener('keydown', moveController);

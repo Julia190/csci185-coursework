@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+    background-image: url("pond.jpeg");
+    background-size: 200vw;
+    background-position-y: 25%;
+    background-position-x:20%;
+}
+main {
+    height: 100vh;
+}
